@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - spike
+  - GM
+  - BossF
+  - flag
+  - proj
+  - bkg
+  - BossSpawn
+  - taco
+  - Boss
+  - hpP
+  - hpP1
+  - deathText
+  - NextLevel
+  - tequila
+  - tequila2
+  - thatStuff
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Hurt
+  - Boss
+  - pewpew
+  - BackgroundL
+  - Enemy
+  - Machete
+  - taco
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1235852063
+    locked: 0
+  - name: Foreground
+    uniqueID: 195778507
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Charachter
+    uniqueID: 159493911
+    locked: 0
